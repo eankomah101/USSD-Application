@@ -14,8 +14,6 @@ public class Main {
             String userInput = scanner.nextLine();
             if (userInput.equals("*455#")) {
                 new Display();
-            } else {
-                System.out.println("Wrong input. Please try again later.");
             }
 
         }
